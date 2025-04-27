@@ -1,17 +1,19 @@
 # 👋 Olá, eu sou o Tata!
 
-🎓 Atualmente, estou cursando o **1º semestre de Análise e Desenvolvimento de Sistemas** no **IFSP**.
+<img align="right" height="120" src="https://media1.tenor.com/m/02rokw177e4AAAAd/abitoads-abi-toads.gif">
 
-🚀 Estou começando minha jornada como desenvolvedor e aprendendo:
+🎓 Atualmente cursando o **1º semestre de Análise e Desenvolvimento de Sistemas** no **Instituto Federal de São Paulo (IFSP)**.
+
+🎯 Tenho interesse em **Desenvolvimento Web** e **Desenvolvimento de Games**, buscando sempre evoluir minhas habilidades técnicas e pessoais.
+
+🚀 Estou aprendendo atualmente:
 - 📗 **C** (programação estruturada)
-- 🌐 **HTML5** e **CSS3** (desenvolvimento web)
-- 🖥️ **JavaScript** (interatividade na web)
-
-💻 Meu GitHub: **[@oTataNoob](https://github.com/oTataNoob)**
+- 🌐 **HTML5** e **CSS3** (desenvolvimento web responsivo)
+- 🖥️ **JavaScript** (interatividade para web)
 
 ---
 
-## 🚀 Tecnologias que estou estudando:
+## 🚀 Linguagens que estou estudando:
 
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C logo" />
@@ -22,7 +24,23 @@
 
 ---
 
-### 📊 Estatísticas
+## 🛠️ Minhas Skills
+
+**Hard Skills:**
+- Desenvolvimento Web com **HTML5**, **CSS3** e **JavaScript**
+- Programação em **C**
+- Pacote Office Avançado (Excel, Word, PowerPoint)
+- Inglês Intermediário-Avançado
+
+**Soft Skills:**
+- Trabalho em equipe
+- Comunicação eficaz
+- Organização e Gestão de tempo
+- Proatividade e Resiliência
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p>
   <img 
