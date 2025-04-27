@@ -45,8 +45,8 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oTataNoob&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oTataNoob&layout=compact&theme=tokyonight&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oTataNoob&show_icons=true&theme=tokyonight&include_all_commits=true&locale=EN" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oTataNoob&layout=compact&theme=tokyonight&locale=EN" />
 </div>
 
 ---
