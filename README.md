@@ -4,8 +4,6 @@
 
 🎓 Atualmente cursando o **1º semestre de Análise e Desenvolvimento de Sistemas** no **Instituto Federal de São Paulo (IFSP)**.
 
-🏨 Desenvolvendo o projeto de extensão **Pousada Doce Lar**, criando um site institucional utilizando **HTML5**, **CSS3** e **JavaScript**.
-
 🎯 Tenho interesse em **Desenvolvimento Web** e **Desenvolvimento de Games**, buscando sempre evoluir minhas habilidades técnicas e pessoais.
 
 🚀 Atualmente estudando:
